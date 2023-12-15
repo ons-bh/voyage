@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223544507444",
+    "project_id": "voyage-c95be",
+    "storage_bucket": "voyage-c95be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223544507444:android:1d102b02a96af2ad345e61",
+        "android_client_info": {
+          "package_name": "com.example.atelier3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe5Hu6QWf6sMjiEP-Cs4kssqa8dUZQkx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
